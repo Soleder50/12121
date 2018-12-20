@@ -10,4 +10,4 @@ channel.send(`B0B yala B0B yala B0B yala B0B yalaB0B yala B0B yalaB0B yala B0B y
 }, 30)
 })
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN . BOT_TOKEN2.BOT_TOKEN3)؛
